@@ -1,0 +1,32 @@
+..
+----------------------------------------------------------------------
+Ran 2 tests in 24.490s
+
+OK
+..
+----------------------------------------------------------------------
+Ran 2 tests in 27.279s
+
+OK
+E.
+======================================================================
+ERROR: test_baidu_search (__main__.Baidu)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\AutoTest\Test17\test_case\baidu.py", line 23, in test_baidu_search
+    driver.find_element_by_id("kwsss").send_keys("selenium webdriver")
+  File "D:\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 360, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "D:\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "D:\Python\Python37\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "D:\Python\Python37\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: Unable to locate element: [id="kwsss"]
+
+
+----------------------------------------------------------------------
+Ran 2 tests in 55.784s
+
+FAILED (errors=1)

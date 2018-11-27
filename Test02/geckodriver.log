@@ -1,0 +1,25 @@
+1542785720190	geckodriver	INFO	geckodriver 0.21.0
+1542785720200	geckodriver	INFO	Listening on 127.0.0.1:33112
+1542785723218	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.gQCMrmASISdN"
+1542785726474	Marionette	INFO	Listening on port 33122
+1542785727429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542785727455	Marionette	DEBUG	[6442450945] Frame script loaded
+1542785727455	Marionette	DEBUG	[6442450945] Frame script registered
+1542785727468	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542785729231	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1542785730066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1542785730162	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=26523_1424_21114_26350_27409&req=2&csor=8&pwd=seleniu&cb=jQuery110209673069802045621_1542785729987&_=1542785729995, line 1: TypeError: jQuery110209673069802045621_1542785729987 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=26523_1424_21114_26350_27409&req=2&csor=7&pwd=seleni&cb=jQuery110209673069802045621_1542785729987&_=1542785729994, line 1: TypeError: jQuery110209673069802045621_1542785729987 is not a function
+1542785730569	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1542785735577	Marionette	INFO	Stopped listening on port 33122
+[Child 30764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30764,[Parent 5604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

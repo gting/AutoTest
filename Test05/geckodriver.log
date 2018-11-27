@@ -1,0 +1,40 @@
+1542857184371	geckodriver	INFO	geckodriver 0.21.0
+1542857184380	geckodriver	INFO	Listening on 127.0.0.1:42422
+1542857187413	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.BPmWmQZZ2llT"
+1542857192476	Marionette	INFO	Listening on port 42430
+1542857192923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542857193009	Marionette	DEBUG	[4294967297] Frame script loaded
+1542857193027	Marionette	DEBUG	[4294967297] Frame script registered
+1542857193133	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1542857193160	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1542857193160	Marionette	DEBUG	[4294967297] Received DOM event unload for about:blank
+1542857193161	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967297
+[Parent 22284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20944, Chrome_Ch1542857193669	Marionette	DEBUG	[8589934593] Frame script loaded
+1542857193671	Marionette	DEBUG	[8589934593] Frame script registered
+1542857193714	Marionette	DEBUG	[8589934593] Check readyState uninitialized for about:blank
+JavaScript error: file:///D:/AutoTest/Test05/frame.html, line 9: ReferenceError: $ is not defined
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1542857196445	Marionette	DEBUG	[8589934593] Received DOM event DOMContentLoaded for file:///D:/AutoTest/Test05/frame.html
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_55e56a3.js, line 177: SecurityError: Permission denied to access property "href" on cross-origin object
+1542857284024	Marionette	DEBUG	[8589934593] Received DOM event pageshow for file:///D:/AutoTest/Test05/frame.html
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=2&pwd=s&cb=jQuery110204359082460623309_1542857215614&_=1542857215617, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=1&cb=jQuery110204359082460623309_1542857215614&_=1542857215616, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=4&pwd=sel&cb=jQuery110204359082460623309_1542857215614&_=1542857215619, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=3&pwd=se&cb=jQuery110204359082460623309_1542857215614&_=1542857215618, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=5&pwd=sele&cb=jQuery110204359082460623309_1542857215614&_=1542857215620, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=6&pwd=selen&cb=jQuery110204359082460623309_1542857215614&_=1542857215621, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=7&pwd=seleni&cb=jQuery110204359082460623309_1542857215614&_=1542857215622, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=26524_1462_21083_26350_22158&req=2&csor=8&pwd=seleniu&cb=jQuery110204359082460623309_1542857215614&_=1542857215623, line 1: TypeError: jQuery110204359082460623309_1542857215614 is not a function
+1542857284494	Marionette	DEBUG	[8589934593] Canceled page load listener because no navigation has been detected
+1542857287496	Marionette	INFO	Stopped listening on port 42430
+[Parent 22284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 30268,[Child 14912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 31516
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,50 @@
+1542876356475	geckodriver	INFO	geckodriver 0.21.0
+1542876356484	geckodriver	INFO	Listening on 127.0.0.1:48172
+1542876359589	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.vr8Wo4OpmKQq"
+1542876362696	Marionette	INFO	Listening on port 48181
+1542876362868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542876362893	Marionette	DEBUG	[6442450945] Frame script loaded
+1542876362894	Marionette	DEBUG	[6442450945] Frame script registered
+1542876362917	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542876367352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1542876370091	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://pypi.org/project/selenium/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+1542876372792	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://pypi.org/project/selenium/
+[[Child 11568, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 11568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11568, Chrome_ChildThread] WARNI[Parent 2304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1542876378860	Marionette	INFO	Stopped listening on port 48181
+[GPU 5304, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1542876401365	geckodriver	INFO	geckodriver 0.21.0
+1542876401374	geckodriver	INFO	Listening on 127.0.0.1:48267
+1542876404407	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.1jG8w4uYre3j"
+1542876407717	Marionette	INFO	Listening on port 48276
+1542876407790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542876407831	Marionette	DEBUG	[6442450945] Frame script loaded
+1542876407835	Marionette	DEBUG	[6442450945] Frame script registered
+1542876407872	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542876410561	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1542876413107	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://pypi.org/project/selenium/
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-55961911-1, line 147: unreachable code after return statement
+1542876415398	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://pypi.org/project/selenium/
+[Parent 26280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Parent 26280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C1542876420195	Marionette	INFO	Stopped listening on port 48276
+[GPU 18940, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

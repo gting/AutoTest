@@ -1,0 +1,64 @@
+1542939543921	geckodriver	INFO	geckodriver 0.21.0
+1542939543930	geckodriver	INFO	Listening on 127.0.0.1:54650
+1542939546968	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.ukWbY9yT96Jq"
+1542939549986	Marionette	INFO	Listening on port 54658
+1542939551309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542939551338	Marionette	DEBUG	[6442450945] Frame script loaded
+1542939551339	Marionette	DEBUG	[6442450945] Frame script registered
+1542939551371	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542939553212	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1542939553617	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1542939553672	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1542939553682	Marionette	INFO	Stopped listening on port 54658
+[Child 16548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16548, Chrome_ChildThread] WARNING: p[Child 10720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10720, Chrome_ChildThread] [Parent 30200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 27156, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1542940180788	geckodriver	INFO	geckodriver 0.21.0
+1542940180798	geckodriver	INFO	Listening on 127.0.0.1:54882
+1542940183835	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.pOPjFY88o2s4"
+1542940187230	Marionette	INFO	Listening on port 54890
+1542940188319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542940188343	Marionette	DEBUG	[6442450945] Frame script loaded
+1542940188343	Marionette	DEBUG	[6442450945] Frame script registered
+1542940188358	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542940190531	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1542940190958	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1542940191004	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1542940193022	Marionette	INFO	Stopped listening on port 54890
+[Parent 4760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25756, Chrome_Ch[Parent 4760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 28232, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1542940258512	geckodriver	INFO	geckodriver 0.21.0
+1542940258522	geckodriver	INFO	Listening on 127.0.0.1:54935
+1542940261552	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUOTIN~1.TYC\\AppData\\Local\\Temp\\rust_mozprofile.NJ2X1xlFGdOe"
+1542940264777	Marionette	INFO	Listening on port 54943
+1542940264880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542940264907	Marionette	DEBUG	[6442450945] Frame script loaded
+1542940264908	Marionette	DEBUG	[6442450945] Frame script registered
+1542940264955	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1542940265840	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1542940266498	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1542940266668	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1542940268698	Marionette	INFO	Stopped listening on port 54943
+[Parent 17784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 31028, Chrom[Parent 17784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
